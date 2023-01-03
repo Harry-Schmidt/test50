@@ -1,6 +1,6 @@
 html {
   /*background: url('./assets/background.png') no-repeat center center fixed;*/
-  background: url('snow.jpg') no-repeat center center fixed;
+  background: url('elves.jpg') no-repeat center center fixed;
   box-sizing: border-box;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -9,7 +9,6 @@ html {
   z-index:0;
   overflow: hidden;
 }
-
 h1 {
   text-align: center;
   font-size: 90px;
@@ -65,7 +64,7 @@ h2 {
 
 .mole {
   /*background:url('./assets/mole.png') bottom center no-repeat;*/
-  background:url('chopper.png') bottom center no-repeat;
+  background:url('elf.png') bottom center no-repeat;
   background-size: 40%;
   position: absolute;
   top: 100%;
